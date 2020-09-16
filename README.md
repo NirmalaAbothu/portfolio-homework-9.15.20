@@ -57,7 +57,7 @@ to understand the Bootstrap grid system to apply in my project
 
 ## License & copyright
 
-## Copyright © 2020 Nirmala Abothu
+Copyright © 2020 Nirmala Abothu
 
 ## Deployed project link
 
