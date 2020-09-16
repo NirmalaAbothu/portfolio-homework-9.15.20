@@ -1,4 +1,4 @@
-# HOMEWORK-ASSIGNMENT2:portfolio
+# HOMEWORK-ASSIGNMENT2: portfolio
 
 ---
 
@@ -11,7 +11,7 @@ This contains information about my professional background and projects
 on which i will be contribute individual or with team and contct information.
 Created
 
-## about.html
+## index.html
 
 -    Built HTML page with Bootstrap grid system
 -    For Navbar and list items
