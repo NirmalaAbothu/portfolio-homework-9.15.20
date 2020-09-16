@@ -2,10 +2,6 @@
 
 ---
 
-Explore the[project page]()
-
-View the [github-pages]()
-
 ## About The Project
 
 ---
