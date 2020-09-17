@@ -14,7 +14,7 @@
 
 This is starting of creating Portfolio.
 This contains information about my professional background and projects
-on which i will be contribute individual or with team and contct information.
+on which i will be contribute individual or with team and contact information.
 Created
 
 ## index.html
