@@ -6,6 +6,12 @@
 
 ---
 
+![alt text](Assets\Images\AboutMe.PNG)
+
+![alt text](Assets\Images\contact.PNG)
+
+![alt text](Assets\Images\Portfolio.PNG)
+
 This is starting of creating Portfolio.
 This contains information about my professional background and projects
 on which i will be contribute individual or with team and contct information.
